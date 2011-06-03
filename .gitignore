@@ -3,3 +3,6 @@ ko.py
 libmymodule.so
 my-module-binding.o
 my-module.o
+Makefile~
+bind.py~
+my-module-binding.cc
