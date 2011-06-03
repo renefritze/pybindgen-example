@@ -1,0 +1,5 @@
+MyModule.so
+ko.py
+libmymodule.so
+my-module-binding.o
+my-module.o
