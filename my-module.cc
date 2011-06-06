@@ -1,12 +1,11 @@
 #include "my-module.h"
-#include <iostream>
 
-Hui::Hui( int i )
+Koi::Koi( int i )
 {
 	i_=i;
 }
-void Hui::put() { std::cout << i_ << std::endl; }
 
+void Koi::put() { std::cout << i_ << std::endl; }
 
 int main(int,char**)
 {}

@@ -6,3 +6,4 @@ my-module.o
 Makefile~
 bind.py~
 my-module-binding.cc
+*~
