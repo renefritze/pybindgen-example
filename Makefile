@@ -10,3 +10,6 @@ all:
 
 clean:
 	git clean -xdf
+
+test: all
+	python ./test.py
